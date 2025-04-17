@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="Style.css">
+<title>Cincy Places</title>
+<header>
+<h1> Cincy Places</h1>
+</header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></ul>
+<li><a href="PA.html">Parks & Attractions</a></ul>
+<li><a href="BLR.html">Best Local Resturaunts</a></ul>
+<li><a href="HS.html">Historical Sites</a></ul>
+<li><a href="FF.html">Festivals & Fairs</a></ul>
+<li><a href="Misc.html">Miscellanious Places</a></ul>
+</ul>
+</nav>
+<div id="wrapper">
+<main>
+
+</main>
+
+</div>
+</html>

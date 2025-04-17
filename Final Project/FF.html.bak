@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="Style.css">
+<link rel="stylesheet" type="text/css" href="mstyle.css">
+<title>Cincy Places</title>
+<div id="wrapper">
+<header>
+<h1> Cincy Places</h1>
+</header>
+
+<nav>
+<div id="navul">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="PA.html">Parks & Attractions</a></li>
+<li><a href="BLR.html">Best Local Resturaunts</a></li>
+<li><a href="HS.html">Historical Sites</a></li>
+<li><a href="FF.html">Festivals,Fairs & More</a></li>
+<li><a href="SA.html">Stadiums</a></li>
+</ul>
+</div>
+</nav>
+
+<div class="morbius">
+<a href="index.html">Home</a>
+<a href="PA.html">Parks & Attractions</a>
+<a href="BLR.html">Best Local restaraunts</a>
+<a href="HS.html">Historical Sites</a>
+<a href="FF.html">Festivals,Fairs & More</a>
+<a href="SA.html">Stadiums</a>
+</div>
+<main>
+<h2> Festivals,Fairs & More</h2>
+<h4>This is a list of some of the festovals, fairs and other fun events that can be found around greater Cincinnati</h4>
+<div id="Index">
+<h4>Index</h4>
+<p>
+<a href="#APC">Appalachian Festival At Coney Island</a>
+<a href="#FP">Flying Pig</a>
+<a href="#SOS">Salsa On The Square</a>
+<a href="#OK">Oktoberfest</a>
+<a href="#BLI">Blink</a>
+</p>
+</div>
+<h3>Appalachian Festival At Coney Island</h3>
+<div id="APC"></div>
+<span class="citation"> This is image comes from <a href="https://www.meetnky.com/event/appalachian-festival/1975/">Meet NKY</a></span>
+
+<p>Hosted in the historic part of Coney Island, the Appalachian festival strives to provide an experience that preserves, and shines a positive light on, Appalachian culture. The festival features several storytellers, performances from bluegrass bands, and authentic food. The festival also has plenty of activities for both adults and kids; so make sure to bring the whole family!.
+<h3>The Flying Pig</h3>
+<div id="FP"></div>
+<p>As Cincinnati's most popular race, the flying pig has gained notoriety for being pretty hard (as marathons are). The marathon is named after the bicentennial commons park, which pays homage to the city's history of being the pork capital of America. The race itself features a 5k, 10k, half marathon, and full marathon, aswell as a kids race, spread across 3 days in May. </p>
+<h3>Salsa On The Square</h3>
+<div id="SOS"></div>
+<p>Located in at heart of downtown, Salsa On The Square is a celebration of Latin American culture. From the energetic music to the delicious food, this festival brings the best of Latin America to the city. Every Thursday night during the summer, locals and tourists gather at Fountain Square to dance to live music, enjoy the flavors of Latin cuisine, and have fun. Salsa On The Square is a fun and festive way to experience the richness of Latin American culture, and it's the perfect place to bring friends and family for a night of music, food, and fun.</p>
+<h3>Oktoberfest</h3>
+<div id="OK"></div>
+<p>Every September, downtown Cincinnati transforms into a Bavarian wonderland for the annual Oktoberfest. Spanning multiple blocks in the city's downtown area, this festival is a celebration of the city's German culture and traditions. Attendees can enjoy authentic German food, beer, and live music from local and national acts. The festival also features a variety of activities such as a 5k run, dachshund races, and stein-holding competitions. The Oktoberfest is a family-friendly event, with a designated kids' area where children can enjoy games and rides. With its festive atmosphere and cultural immersion, the Oktoberfest is a truly iconic part of the city's rich tradition.
+<h3>Blink</h3>
+<div id="BLI"></div>
+<p>Being a relatively new addition to this list, but certainly already unique, Blink is a biennial art and light festival that illuminates the streets of Cincinnati with breathtaking displays of creativity and innovation. The festival spans across several blocks and features a variety of interactive installations, murals, and projections that showcase the talents of local and international artists. The festival also features music and dance performances, as well as food and drink vendors offering a variety of delicious options. Blink is a family-friendly event that is free to attend and encourages visitors to explore the city in a new and exciting way.
+
+<table class="Pricet">
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>Entry Price (per person)</th>
+      <th>Cost of Food</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Flying Pig</td>
+      <td>$75-$120 (depending on race and registration date)</td>
+      <td>$5-$15</td>
+    </tr>
+    <tr>
+      <td>Appalachian Festival at Coney Island</td>
+      <td>$10 (adults), $5 (children 4-11), free for children under 4</td>
+      <td>$5-$15</td>
+    </tr>
+    <tr>
+      <td>Salsa on the Square</td>
+      <td>Free</td>
+      <td>$5-$15</td>
+    </tr>
+    <tr>
+      <td>Oktoberfest</td>
+      <td>Free</td>
+      <td>$5-$20</td>
+    </tr>
+    <tr>
+      <td>Blink</td>
+      <td>Free</td>
+      <td>$7-$15</td>
+    </tr>
+  </tbody>
+</table>
+
+</main>
+</div>
+</html>

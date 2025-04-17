@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="Style.css">
+<link rel="stylesheet" type="text/css" href="mstyle.css">
+<title>Cincy Places</title>
+<div id="wrapper">
+<header>
+<h1> Cincy Places</h1>
+</header>
+
+<nav>
+<div id="navul">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="PA.html">Parks & Attractions</a></li>
+<li><a href="BLR.html">Best Local Resturaunts</a></li>
+<li><a href="HS.html">Historical Sites</a></li>
+<li><a href="FF.html">Festivals & Fairs</a></li>
+<li><a href="SA.html">Stadiums</a></li>
+<li><a href="Misc.html">Miscellanious Places</a></li>
+
+</ul>
+</nav>
+
+<main>
+<h2> Miscellanious Places </h2>
+<h4> This is a list of the more random places through out Cincinnati. These don't really fit anywhere else</h4>
+</main>
+</html>

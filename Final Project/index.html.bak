@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" type="text/css" href="Style.css">
+<link rel="stylesheet" type="text/css" href="homestyle.css">
+<title>Cincy Places</title>
+<div id="wrapper">
+<header>
+<h1> Cincy Places</h1>
+</header>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="PA.html">Parks & Attractions</a></li>
+<li><a href="BLR.html">Best Local Resturaunts</a></li>
+<li><a href="HS.html">Historical Sites</a></li>
+<li><a href="FF.html">Festivals,Fairs & More</a></li>
+<li><a href="SA.html">Stadiums</a></li>
+</ul>
+
+</nav>
+<div class="morbius">
+<a href="index.html">Home</a>
+<a href="PA.html">Parks & Attractions</a>
+<a href="BLR.html">Best Local restaraunts</a>
+<a href="HS.html">Historical Sites</a>
+<a href="FF.html">Festivals,Fairs & More</a>
+<a href="SA.html">Stadiums</a>
+</div>
+<main>
+<h2> Home </h2>
+<h5> Welcome To Cincy Places</h5>
+<br>
+<p>
+Welcome to Cincy Places. Here you will find the best that the greater Cincinnati area has to offer. Whether it be the thrills of King's Island to the roaring enviornment of Paycor stadium, to the scenic villa like fields of Ault park, I have compiled information for all of them. Cincy Places hopes to provide the good information for each and every place that is covered. If you are a tourist or just someone looking for something new to do in the city, Cincy Places has you covered. 
+<figure>
+<img src="Home/skyline.jpg" width=700 height=450 alt="A view of the Cincinnati Skyline at night">
+<figcaption> A scenic view of the Cincinnati Skyline at night</figcaption>
+</figure>
+<span class="citation"> This is image comes from <a href="https://www.jaredweberphotography.com/photo/the-cincinnati-skyline/">Jaredd Weber Photography</a></span>
+
+<h4><b> Want to add a place to our lists?</b></h4>
+<h5>Fill out this form </h5>
+
+
+<form>
+<label for="FName">First Name:</label>
+<input type="text" id="FName" name="FName" required="required">
+    
+<label for="LName">*Last Name: </label>
+<input type="text" id="LName" name="myLName" required="required">
+
+    <label for="email">E-mail: </label>
+<input type="email" id="email" name="email" size="40" required="required">
+
+    
+    <label for="phone">Phone: </label>
+<input type="tel" id="phone" name="phone" maxlength="12"> 
+
+    <label for="message">Message:</label>
+<textarea id="message" name="message" rows="4" cols="50" required="required"></textarea>
+
+<br>
+<h5>Please specify which page your addition will go on</h5>
+  
+  <label for="pa">Parks & Attractions</label><br>
+  <input type="radio" id="pa" name="page" value="Parks & Attractions">
+
+
+
+  <label for="blr">Best Local Resturaunts</label><br>
+    <input type="radio" id="blr" name="page" value="Best Local Resturaunts">
+  <label for="hs">Historical Sites</label>
+  <input type="radio" id="hs" name="page" value="Historical Sites">
+   <label for="ff">Festivals, Fairs, & More</label>
+   <input type="radio" id="ff" name="page" value="Festivals, Fairs, & More">
+   
+
+  <label for="sa">Stadiums</label>
+  <input type="radio" id="sa" name="page" value="Stadiums">
+ 
+
+
+<input type="submit"  value="Submit">
+</form>
+<h5> Or Contact Us </h5>
+<a href="mailto:deeznuts@hotmail.com">Our email</a>
+</main>
+</div>
+</html>

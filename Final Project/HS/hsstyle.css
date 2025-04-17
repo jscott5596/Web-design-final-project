@@ -1,0 +1,65 @@
+#MM {
+	background-image:url(MM.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#GBP {
+	background-image:url(GBP.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#Taft {
+	background-image:url(Taft.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#LC {
+	background-image:url(LC.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#OB {
+	background-image:url(OB.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#wrapper {
+	width:90%;
+	min-width: 1000px;
+	max-width: 1500px;
+background-color:#D3D3D3;
+	border-color: #003300;
+	margin-left:auto;
+	margin-right:auto;
+}
+main {
+	margin-left: 150px;
+	max-width: 1500px;
+	height: 2500px;
+min-width:800px;
+}

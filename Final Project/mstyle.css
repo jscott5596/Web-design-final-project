@@ -1,0 +1,387 @@
+p {
+
+	max-width:700px;
+	min-width:400px;
+	overflow:auto;
+	margin-right:100px;
+	height:250px;
+	font-family:"Times New Roman", Georgia, Helvetica;
+	  line-height: 1.4;
+}
+#Section1 {
+	background-image:url(filler2.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#Section2 {
+	background-image:url(filler2.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#Section3 {
+	background-image:url(filler3.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#Section4 {
+	background-image:url(filler4.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#Section5 {
+	background-image:url(filler5.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+tr, td, th {
+	  padding: 10px;
+	  	 border: 1px solid black;
+		 border-collapse: collapse;
+}
+ tr:nth-child(odd) td {
+    background-color: #f2f2f2;
+ }
+ table {
+
+	   
+ }
+
+main {
+	margin-left: 150px;
+	max-width: 1500px;
+		height: 2500px;
+min-width:800px;
+}
+nav {
+	  padding-bottom:158.5%;
+}
+
+/* Beginning of Parks & Attractions */
+#KI {
+	background-image:url(PA/KI.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#EP {
+	background-image:url(PA/EP.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#CZ {
+	background-image:url(PA/CZ.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#WW {
+	background-image:url(PA/WW.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#AP {
+	background-image:url(PA/AP.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+
+
+/*Beginning Of Historical Sites */
+#MM {
+	background-image:url(HS/MM.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#GBP {
+	background-image:url(HS/GBP.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#Taft {
+	background-image:url(HS/Taft.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#LC {
+	background-image:url(HS/LC.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#OB {
+	background-image:url(HS/OB.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+
+/* Beginning of Stadiums*/
+#PS {
+	background-image:url(SA/PS.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		float:left;
+		overflow: auto;
+		margin-right:10px;
+}
+#NP {
+	background-image:url(SA/NP.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#GAB {
+	background-image:url(SA/GAB.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#TQL {
+	background-image:url(SA/TQL.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#HBC {
+	background-image:url(SA/HBC.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+
+/*Festivals & Fairs*/
+#APC {
+	background-image:url(FF/APC.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#FP {
+	background-image:url(FF/FP.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#SOS {
+	background-image:url(FF/SOS.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#OK {
+	background-image:url(FF/OK.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#BLI {
+	background-image:url(FF/BLI.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+/*Best Local Resturaunts*/
+#TB {
+	background-image:url(BLR/TB.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#GR {
+	background-image:url(BLR/GR.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#CWC {
+	background-image:url(BLR/CWC.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#SEN {
+	background-image:url(BLR/SEN.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+#GPE {
+	background-image:url(BLR/GPE.jpg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		height:200px;
+		width:200px;
+		margin-right:10px;
+		float:left;
+		overflow:auto;
+}
+.morbius {
+	display:none;
+}
+/*Laptop*/
+@media only screen and (max-width: 82em) {
+main p {
+	font-size:1em;
+}
+#wrapper{
+	padding-left: 0;
+	padding-right:0;
+	width:100%;
+}
+#navul {
+height:900px;
+}
+
+/*Tablet*/
+
+@media only screen and (max-width: 64em)  {
+
+.morbius {
+	display:inline; 
+	font-weight:bold;
+	text-decoration:none;
+	font-size:1em;
+}
+
+.morbius a {
+	margin-right:15px;
+}
+	#wrapper { min-width: 0;
+	           width: auto;
+			   box-shadow: none; 
+			   border: none; }
+   header { padding-top: 0.5em; 
+          padding-bottom: 0.5em; 
+		  padding-left: 0;
+          height: auto;	}
+	h1 { letter-spacing: 0.1em; }
+	main { margin-left: 0; }
+	nav { display:none;}
+	footer { margin-left: 0; }	
+}
+}

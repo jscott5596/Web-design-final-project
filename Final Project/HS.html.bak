@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="Style.css">
+<link rel="stylesheet" type="text/css" href="mstyle.css">
+<title>Cincy Places</title>
+<div id="wrapper">
+<header>
+<h1> Cincy Places</h1>
+</header>
+
+<nav>
+<div id="navul">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="PA.html">Parks & Attractions</a></li>
+<li><a href="BLR.html">Best Local Resturaunts</a></li>
+<li><a href="HS.html">Historical Sites</a></li>
+<li><a href="FF.html">Festivals,Fairs & More</a></li>
+<li><a href="SA.html">Stadiums</a></li>
+</ul>
+</div>
+</nav>
+
+
+<div class="morbius">
+<a href="index.html">Home</a>
+<a href="PA.html">Parks & Attractions</a>
+<a href="BLR.html">Best Local restaraunts</a>
+<a href="HS.html">Historical Sites</a>
+<a href="FF.html">Festivals,Fairs & More</a>
+<a href="SA.html">Stadiums</a>
+</div>
+
+<main>
+<h2> Historical Sites </h2>
+<h4> This is a showing of some of the best historical sites across the greater Cincinnati area</h4>
+<div id="Index">
+<h4>Index</h4>
+<p>
+<a href="#MM">Union Terminal</a>
+<a href="#GBP">Grant Birthplace</a>
+<a href="#Taft">Taft House</a>
+<a href="#LC">Loveland Castle</a>
+<a href="#OB">Cincinnati Observatory</a>
+</p>
+</div>
+<h3> Cincinnati Union Terminal</h3>
+<div id="MM" title="A picture of Cincinnati Union Terminal at midday"></div>
+<span class="citation"> This is image comes from <a href="https://en.wikipedia.org/wiki/Cincinnati_Union_Terminal">Wikipedia</a></span>
+
+<p>As the home of both the Cinnati museum center, and still an amtrak platform, the union terminal lives up to its massive shape. The museum is divided into three sections: The Cincinnati History Museum, The Museum Of Natural History& Science, and The Duke Energy Children's Museum. Those 3 museums are enough to take up a day alone, but there are also seasonal exhibits and an ominmax center which further adds to its quality. Walking in to Union Terminal, you will be greeted by its massive murals designed by Winold Reiss in 1931. <br> If you wanted to head to union terminal to board amtrak, it runs on the cardinal line between Chicago and NYC. Trains to Chicago arrive at 1:31 am, and New York at 3:17, so make sure not to sleep in. </p>
+<h3> Grant Birthplace </h3>
+<div id="GBP" title="A picture of The grant birthplace museum"></div>
+<span class="citation"> This is image comes from <a href="https://ohio.org/travel-inspiration/articles/ohio-the-land-of-president-grant">Ohio.org</a></span>
+
+<p> The birthplace of America's 18th president, and one of her greatest generals, the Grant birthplace provides a really good insight into frontier life in early 19th century America. Walking in you will have a mini museum of several artifacts from Grant's life. You can also get a tour of the actual birthplace which lasts about 30 minutes. All of this comes at the nice price of free.  </p>
+<h3>Taft House </h3>
+<div id="Taft" title="A picture of the Taft House"></div>
+<span class="citation"> This is image comes from <a href="https://www.nps.gov/places/taft-family-house.htm">Nps.gov</a></span>
+
+<p> Taft House was the birthplace and childhood house of William Howard Taft, the 27th president and 10th chief justice. The home would be used as an apartment for a while, but now has been restored and has become a full on museum dedicated to the late president.</p>
+<h3> Loveland Castle </h3>
+<div id="LC" title="A sideview of Loveland Castle"></div>
+<span class="citation"> This is image comes from <a href="https://en.wikipedia.org/wiki/File:Loveland_Castle_(9).jpg">Wikipedia</a></span>
+
+<p> Built by medievalist and scout leader, Harry D. Andrews, this castle is a bizarre sight in the very modern landscape of Loveland. Despite this, it still is a good museum and attraction for those who want to get a little medieval with their site seeing.</p>
+<h3> Cincinnati Observatory </h3>
+<div id="OB"></div>
+<span class="citation" title="A picture of the Cincinnati observatory"> This is image comes from <a href="https://spectrumnews1.com/oh/columbus/news/2022/05/04/cincinnati-observatory-astronomy-center">Spectrum News 1</a></span>
+
+<p>Established in 1843, the Cincinnati observatory is the oldest operating professional observatory in the United States. It is, infact, so old that it was dedicated by John Quincy Adams. However, there is still some novelty in looking through the old telescopes which provide a look into how past astronomers looked at the sky. It also has a beautiful Greek Revival style architecture which distinguishes it from other buildings in the area.</p>
+
+<h3>A Look At Pricing</h3>
+<div class="Pricet">
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Entry Fee (per person)</th>
+      <th>Food Pricing (average)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cincinnati Union Terminal</td>
+      <td>$14.50 - $21.50</td>
+      <td>$10 - $20</td>
+    </tr>
+    <tr>
+      <td>*Grant Birthplace</td>
+      <td>Free</td>
+      <td>$5 - $15</td>
+    </tr>
+    <tr>
+      <td>*Taft House</td>
+      <td>$10 - $12</td>
+      <td>$10 - $20</td>
+    </tr>
+    <tr>
+      <td>*Loveland Castle</td>
+      <td>$5</td>
+      <td>$5 - $15</td>
+    </tr>
+    <tr>
+      <td>*Cincinnati Observatory</td>
+      <td>$10 - $15</td>
+      <td>$5 - $10</td>
+    </tr>
+  </tbody>
+
+</table>
+</div>
+  <p><small>*Sites do not have food, so the price is for food in the surrounding area.</small></p>
+</main>
+</div>
+</html>

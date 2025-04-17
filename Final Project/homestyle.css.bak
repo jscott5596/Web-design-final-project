@@ -1,0 +1,61 @@
+p {
+font-family:"Times New Roman", Georgia, Helvetica;
+	  line-height: 1.4;
+}
+figure {
+	max-width: 95%;
+}
+main {
+	margin-left: 150px;
+	max-width: 1500px;
+	height: 1500px;
+min-width:800px;
+}
+nav {
+	  padding-bottom:84.5%;
+}
+label { float: left; display: block; text-align: right; width: 125px; padding-right: 2em; }
+input, textarea { display: block; margin-bottom: 20px; }
+input[type="submit"] { 
+margin-left: 135px; }
+input[type="radio"] { margin-left: 135px;
+margin-right:10px;
+margin-bottom:30px; }
+
+.morbius {
+	display:none;
+}
+
+/*Tablet*/
+@media only screen and (max-width: 64em)  {
+
+.morbius {
+	display:inline; 
+	font-weight:bold;
+	text-decoration:none;
+	font-size:1em;
+}
+
+.morbius a {
+	margin-right:15px;
+}
+	#wrapper { min-width: 0;
+	           width: auto;
+			   box-shadow: none; 
+			   border: none; }
+   header { padding-top: 0.5em; 
+          padding-bottom: 0.5em; 
+		  padding-left: 0;
+          height: auto;	}
+	h1 { letter-spacing: 0.1em; }
+	main { margin-left: 0;
+width:100%;
+	}
+	p {
+		width:100%;
+	}
+	nav { display:none;}
+	footer { margin-left: 0; }	
+}
+
+}

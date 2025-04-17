@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/x-icon" href="favicon.ico" >
+<link rel="stylesheet" type="text/css" href="Style.css">
+<link rel="stylesheet" type="text/css" href="mstyle.css">
+<title>Cincy Places</title>
+<div id="wrapper">
+<header>
+<h1>Cincy Places</h1>
+</header>
+
+<nav>
+<div id="navul">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="PA.html">Parks & Attractions</a></li>
+<li><a href="BLR.html">Best Local Restaraunts</a></li>
+<li><a href="HS.html">Historical Sites</a></li>
+<li><a href="FF.html">Festivals,Fairs & More</a></li>
+<li><a href="SA.html">Stadiums</a></li>
+</ul>
+</div>
+</nav>
+
+<div class="morbius">
+<a href="index.html">Home</a>
+<a href="PA.html">Parks & Attractions</a>
+<a href="BLR.html">Best Local Restaraunts</a>
+<a href="HS.html">Historical Sites</a>
+<a href="FF.html">Festivals,Fairs & More</a>
+<a href="SA.html">Stadiums</a>
+</div>
+<main>
+<h2> Best Local restaraunts </h2>
+<h4> These are a list of some of the best affordable restaraunts</h4>
+<div id="Index">
+<h4>Index</h4>
+<p>
+<a href="#TB">Taste Of Belgium</a>
+<a href="#GR">Governor</a>
+<a href="#CWC">Camp Washington Chili</a>
+<a href="#SEN">Senate</a>
+<a href="#GPE">Good Plates Eatery</a>
+</p>
+</div>
+<h3> Taste Of Belgium </h3>
+<div id="TB"></div>
+<span class="citation"> This is image comes from <a href="https://www.tripadvisor.com/Restaurant_Review-g60993-d10097981-Reviews-Taste_of_Belgium_Rookwood-Cincinnati_Ohio.html">Trip Advisor</a></span>
+<p>Founded in 2007 by Belgian Jean-Francois Fletchet, Taste of Belgium is a chain of restaraunts that strives to serve the city with the most authentic Belgian taste possible. Taste of Belgium is known for their nationally famous waffles, which have been featured on programs such as "Diner Drivens and Dives". Though it can be pricy at times, Taste of Belgium has, perhaps, some of the best food in the city.</p>
+<h3>Governor</h3>
+<div id="GR"></div>
+<span class="citation"> This is image comes from <a href="https://www.cincinnatimagazine.com/article/the-governor-in-old-milford-gets-our-vote/">Cincinnati Magazine</a></span>
+<p>Dubbed the "Modern diner", Governor is a standout fine-dining restaurant in Cincinnati that has been wowing diners with their innovative and ever-changing seasonal menu since 2011. Chef Joshua Campbell and his team source the highest quality local and sustainable ingredients to create dishes that are not only visually stunning, but also bursting with flavor. With a focus on exceptional service and a sophisticated atmosphere, Governor is the perfect spot for a special occasion or an unforgettable meal.</p>
+<h3>Camp Washington Chili</h3>
+<div id="CWC"></div>
+<span class="citation"> This is image comes from <a href="https://en.wikipedia.org/wiki/Camp_Washington_Chili">Wikipedia</a></span>
+<p>Camp Washington Chili is a Cincinnati institution that has been serving up their famous chili since 1940. Made with a secret blend of spices, their chili is a beloved local favorite and has even been featured on national television. But chili isn't the only thing on the menu at Camp Washington Chili; they also serve breakfast all day, sandwiches, and classic diner fare. The atmosphere is casual and unpretentious, with plenty of local charm.</p>
+<h3>Senate</h3>
+<div id="SEN"></div>
+<span class="citation"> This is image comes from <a href="https://www.cincinnatimagazine.com/dining-reviews/senate-twice-nice-second-location-burbs/">Cincinnati Magazine</a></span>
+<p>Senate is a modern American gastropub that has been a fixture in Cincinnati's Over-the-Rhine neighborhood since 2010. With a focus on creative hot dogs and craft cocktails, Senate is the perfect spot for a fun and casual night out. Their hot dogs come topped with everything from foie gras to kimchi, and their cocktail list is equally inventive. The atmosphere is lively and energetic, with a cool industrial-chic vibe.</p>
+<h3>Good Plates Eatery</h3>
+<div id="GPE"></div>
+<span class="citation"> This is image comes from <a href="https://www.citybeat.com/food-drink/cincinnati-is-no-13-in-the-usa-for-vegans-and-vegetarians-according-to-new-study-13947287">City Beat</a></span>
+<p>Good Plates Eatery is a health-focused restaurant in Cincinnati that believes in the power of good food to nourish both the body and the soul. They source their ingredients locally and organically whenever possible, and offer a range of dishes that are gluten-free, dairy-free, and vegan. Their menu includes options like grain bowls, smoothies, and salads, all made with the freshest and most nutritious ingredients available. The atmosphere at Good Plates Eatery is warm and inviting, with a focus on community and wellness.</p>
+
+<table class="Pricet">
+<thead>
+  <tr>
+    <th>Restaurant</th>
+    <th>Price (per person)</th>
+    <th>Yelp Stars</th>
+  </tr>
+  </thead>
+  <tr>
+    <td>Taste of Belgium (OTR)</td>
+    <td>$10-$20</td>
+    <td>4.5</td>
+  </tr>
+  <tr>
+    <td>Governor</td>
+    <td>$10-$25</td>
+    <td>4.7</td>
+  </tr>
+  <tr>
+    <td>Camp Washington Chili</td>
+    <td>$8-$15</td>
+    <td>4.5</td>
+  </tr>
+  <tr>
+    <td>Senate</td>
+    <td>$15-$30</td>
+    <td>4.3</td>
+  </tr>
+  <tr>
+    <td>Good Plates Eatery</td>
+    <td>$10-$15</td>
+    <td>4.5</td>
+  </tr>
+</table>
+
+
+</main>
+</body>
+</div>
+</html>
